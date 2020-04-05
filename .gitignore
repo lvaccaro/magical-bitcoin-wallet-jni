@@ -7,3 +7,4 @@ Cargo.lock
 local.properties
 *.swp
 *.iml
+build
